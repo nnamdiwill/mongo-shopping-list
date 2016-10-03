@@ -1,0 +1,30 @@
+{
+  "name": "mongo-shopping-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnamdiwill/mongo-shopping-list.git"
+  },
+  "author": "N'Namdi Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnamdiwill/mongo-shopping-list/issues"
+  },
+  "homepage": "https://github.com/nnamdiwill/mongo-shopping-list#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.1.0"
+  }
+}
